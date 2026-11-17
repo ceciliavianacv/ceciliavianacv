@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Oii, meu nome é Cecília e eu faço curso de informática para internet. Meu objetivo é trabalhar com o que eu quero e ser super proativa na minha área.
 <!--
 **ceciliavianacv/ceciliavianacv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
